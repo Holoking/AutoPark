@@ -1,0 +1,29 @@
+Sprint 0 :
+
+Bloc : bloc de decision.
+Fonction : Ouvrir ou fermer la porte en fonction de ses entrees.
+Entree : 
+	- capteur0
+	- capteur1
+	- capteur2
+	- capteur3
+	- porte
+Sortie :
+	- Chaine de caracteres
+
+
+
+Bloc : Moteur 
+Fonction : Ouvrir ou fermer la porte en fonction de l'ordre recu
+Entree:
+	- entier (-1 : fermer la porte, 0: arreter le moteur, 1: ouvrir la porte)
+Sortie:
+	-------------------------------------------------------------------------
+
+
+Bloc : Traitement d'image
+Fonction: Lire une matricule a partir d'une image 
+Entree:
+	- Image JPG
+Sortie:
+	- Texte contenant la matricule
